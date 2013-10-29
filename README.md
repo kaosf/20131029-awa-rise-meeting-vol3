@@ -1,3 +1,7 @@
+# 20131029-awa-rise-meeting-vol3
+
+http://kaosfield.net/slides/20131029-awa-rise-meeting-vol3
+
 # reveal.js forked by kaosf
 
 Version 2.5.0.0
